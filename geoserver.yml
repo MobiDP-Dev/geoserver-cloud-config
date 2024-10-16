@@ -218,7 +218,7 @@ spring.config.activate.on-profile: pgconfig
 backend.pgconfig: true
 # configure the jndi jdbc datasource with the placeholders defined in jndi.yml
 jndi.pgconfig.enabled: true
-pgconfig.host: pgconfigdb
+pgconfig.host: pgconfigdbtest2
 pgconfig.port: 5432
 pgconfig.database: pgconfig
 pgconfig.schema: pgconfig
